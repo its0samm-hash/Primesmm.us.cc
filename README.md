@@ -117,7 +117,7 @@ ORDER_CHANNEL=
 ```
 tmux new -s groupbot
 source venv/bin/activate
-python3 main.py
+python3 bot.py
 ```
 
 ➡️ Detach (keep it running): `Ctrl + B`, then `D`
