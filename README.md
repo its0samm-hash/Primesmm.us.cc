@@ -124,6 +124,11 @@ python3 bot.py
 
 </details>
 
+# 🎬 Telegram SMM Panel Bot (Pyrogram)
+![Stars](https://img.shields.io/github/stars/learningbots79/smm_panel_bot)
+![Forks](https://img.shields.io/github/forks/learningbots79/smm_panel_bot)
+
+
 <div align="center">
 
 ### ☕ Support Me!
