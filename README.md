@@ -4,6 +4,9 @@
   <img src="https://files.catbox.moe/081e7a.jpg" width="300" height="300" />
 </a>
 
+![Stars](https://img.shields.io/github/stars/learningbots79/smm_panel_bot)
+![Forks](https://img.shields.io/github/forks/learningbots79/smm_panel_bot)
+
 ----------------------------------------------------
 A **Telegram SMM Panel Bot** built with **Pyrogram** + **MongoDB** for managing SMM services, users, referrals, and payments
 
@@ -123,11 +126,6 @@ python3 bot.py
 ➡️ Detach (keep it running): `Ctrl + B`, then `D`
 
 </details>
-
-# 🎬 Telegram SMM Panel Bot (Pyrogram)
-![Stars](https://img.shields.io/github/stars/learningbots79/smm_panel_bot)
-![Forks](https://img.shields.io/github/forks/learningbots79/smm_panel_bot)
-
 
 <div align="center">
 
